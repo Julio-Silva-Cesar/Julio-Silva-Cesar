@@ -3,13 +3,9 @@
   <p>Especialista em Ciência de Dados | Transformando dados brutos em insights estratégicos</p>
 </div>
 
----
-
 ## 📝 **Sobre Mim**
 
 Apaixonado por dados e pelas histórias que eles contam, sou especialista em Ciência de Dados com foco em transformação de dados brutos em insights estratégicos. Tenho experiência no desenvolvimento e manutenção de pipelines de dados, com ênfase em processos de ETL, automação de rotinas, modelagem de dados e integração de fontes de informação.
-
----
 
 ## 🛠️ **Tecnologias e Hard Skills**
 
@@ -30,15 +26,12 @@ Apaixonado por dados e pelas histórias que eles contam, sou especialista em Ci�
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> &nbsp;
 
----
-
 ## 🎯 **Atualmente mais focado em:**
 
 - **Processos**: ETL, Modelagem de Dados, Automação de Pipelines, Web Scraping, Interceptação de APIs  
 - **Boas Práticas**: Limpeza e padronização de dados, normalização de textos, otimização de consultas  
 - **Tendências**: Aplicação de IAs generativas em fluxos de dados e automações
 
----
 ## 📱 **Você também me encontra em:**
 
 <div align="left" style="display: flex; gap: 16px; flex-wrap: wrap;">
@@ -61,7 +54,6 @@ Apaixonado por dados e pelas histórias que eles contam, sou especialista em Ci�
 
 </div>
 
----
 <!--
 
 ## 🚀 **Projetos em Destaque**
