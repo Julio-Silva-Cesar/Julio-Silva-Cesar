@@ -54,7 +54,7 @@ Apaixonado por dados e pelas hist√≥rias que eles contam, sou especialista em Ci√
   <a href="https://medium.com/@juliosilva" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-
+  
   <a href="mailto:juliocss044@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
