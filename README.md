@@ -32,7 +32,7 @@ Apaixonado por dados e pelas histórias que eles contam, sou especialista em Ci�
 
 ---
 
-### 🎯 **Atualmente mais focado em:**
+## 🎯 **Atualmente mais focado em:**
 
 - **Processos**: ETL, Modelagem de Dados, Automação de Pipelines, Web Scraping, Interceptação de APIs  
 - **Boas Práticas**: Limpeza e padronização de dados, normalização de textos, otimização de consultas  
